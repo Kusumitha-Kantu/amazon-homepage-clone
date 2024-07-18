@@ -1,2 +1,2 @@
-# amazon-clone
-Using HTML and CSS
+# amazon-homepage-clone
+Using only HTML and CSS
